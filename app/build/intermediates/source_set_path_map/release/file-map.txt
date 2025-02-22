@@ -1,0 +1,57 @@
+in.lsoys.app-jetified-hilt-navigation-compose-1.0.0-0 C:\Users\malak\.gradle\caches\8.12.1\transforms\030a550567148decc6f79588c487f717\transformed\jetified-hilt-navigation-compose-1.0.0\res
+in.lsoys.app-jetified-activity-compose-1.7.0-1 C:\Users\malak\.gradle\caches\8.12.1\transforms\0bcccc99d7f4877ab038f4f72bec684b\transformed\jetified-activity-compose-1.7.0\res
+in.lsoys.app-jetified-ui-unit-1.4.3-2 C:\Users\malak\.gradle\caches\8.12.1\transforms\14c205c259a0b4f698cd664bca053a5b\transformed\jetified-ui-unit-1.4.3\res
+in.lsoys.app-jetified-ui-text-1.4.3-3 C:\Users\malak\.gradle\caches\8.12.1\transforms\1d992b295e9e3bb83af34fba8e068acd\transformed\jetified-ui-text-1.4.3\res
+in.lsoys.app-jetified-lifecycle-viewmodel-savedstate-2.6.1-4 C:\Users\malak\.gradle\caches\8.12.1\transforms\21c9403b657bba18f08bc0edbd19ffb1\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\res
+in.lsoys.app-jetified-ui-1.4.3-5 C:\Users\malak\.gradle\caches\8.12.1\transforms\25c98f0e4d313f92c6cdbf89bbff1c51\transformed\jetified-ui-1.4.3\res
+in.lsoys.app-lifecycle-viewmodel-2.6.1-6 C:\Users\malak\.gradle\caches\8.12.1\transforms\33771d7604714847a3e166dd6c27932a\transformed\lifecycle-viewmodel-2.6.1\res
+in.lsoys.app-jetified-savedstate-1.2.1-7 C:\Users\malak\.gradle\caches\8.12.1\transforms\34c313580248b5cdf00f37b1f27c0b86\transformed\jetified-savedstate-1.2.1\res
+in.lsoys.app-jetified-emoji2-1.3.0-8 C:\Users\malak\.gradle\caches\8.12.1\transforms\35cd03e8e20b5fa0c24658fcd024dc19\transformed\jetified-emoji2-1.3.0\res
+in.lsoys.app-jetified-foundation-layout-1.4.3-9 C:\Users\malak\.gradle\caches\8.12.1\transforms\36a160c0752802bb288a05af6f9281c5\transformed\jetified-foundation-layout-1.4.3\res
+in.lsoys.app-core-1.9.0-10 C:\Users\malak\.gradle\caches\8.12.1\transforms\380247df28f5e1dd6a0c30d41ee26c11\transformed\core-1.9.0\res
+in.lsoys.app-navigation-runtime-2.4.0-11 C:\Users\malak\.gradle\caches\8.12.1\transforms\430505489df013368314341701e31b12\transformed\navigation-runtime-2.4.0\res
+in.lsoys.app-fragment-1.5.1-12 C:\Users\malak\.gradle\caches\8.12.1\transforms\4e79ebe1398b95492cdcb289d16474bb\transformed\fragment-1.5.1\res
+in.lsoys.app-jetified-core-ktx-1.9.0-13 C:\Users\malak\.gradle\caches\8.12.1\transforms\4f03b1e1ed7b026b063e0b041e2809e2\transformed\jetified-core-ktx-1.9.0\res
+in.lsoys.app-jetified-appcompat-resources-1.4.1-14 C:\Users\malak\.gradle\caches\8.12.1\transforms\504ab95c331015acb5494723ee265812\transformed\jetified-appcompat-resources-1.4.1\res
+in.lsoys.app-jetified-runtime-saveable-1.4.3-15 C:\Users\malak\.gradle\caches\8.12.1\transforms\5521bc31383d04c348f7f93b3917dcd0\transformed\jetified-runtime-saveable-1.4.3\res
+in.lsoys.app-jetified-navigation-compose-2.4.0-16 C:\Users\malak\.gradle\caches\8.12.1\transforms\553b9912cec28710de63e2f1b1e982f6\transformed\jetified-navigation-compose-2.4.0\res
+in.lsoys.app-jetified-activity-ktx-1.7.0-17 C:\Users\malak\.gradle\caches\8.12.1\transforms\5e32978c5bae838975df812337ea57d7\transformed\jetified-activity-ktx-1.7.0\res
+in.lsoys.app-jetified-activity-1.7.0-18 C:\Users\malak\.gradle\caches\8.12.1\transforms\600d5a1a2e52c67d9b5a3683b472c0de\transformed\jetified-activity-1.7.0\res
+in.lsoys.app-navigation-common-2.4.0-19 C:\Users\malak\.gradle\caches\8.12.1\transforms\685ad60fb262d1da309a15737a3df282\transformed\navigation-common-2.4.0\res
+in.lsoys.app-jetified-lifecycle-process-2.6.1-20 C:\Users\malak\.gradle\caches\8.12.1\transforms\6867a6ced2949d67795281c324f0eada\transformed\jetified-lifecycle-process-2.6.1\res
+in.lsoys.app-jetified-animation-core-1.2.1-21 C:\Users\malak\.gradle\caches\8.12.1\transforms\6936a4f1eb528fd2c4393dbb4aa503ee\transformed\jetified-animation-core-1.2.1\res
+in.lsoys.app-jetified-ui-graphics-1.4.3-22 C:\Users\malak\.gradle\caches\8.12.1\transforms\6fd798b6908669c4288803db150b590a\transformed\jetified-ui-graphics-1.4.3\res
+in.lsoys.app-jetified-savedstate-ktx-1.2.1-23 C:\Users\malak\.gradle\caches\8.12.1\transforms\78f01345bf61337c6430a54d18634f42\transformed\jetified-savedstate-ktx-1.2.1\res
+in.lsoys.app-jetified-lifecycle-runtime-ktx-2.6.1-24 C:\Users\malak\.gradle\caches\8.12.1\transforms\7af1940d3337eab759386b0c9d9d6697\transformed\jetified-lifecycle-runtime-ktx-2.6.1\res
+in.lsoys.app-jetified-ui-util-1.4.3-25 C:\Users\malak\.gradle\caches\8.12.1\transforms\87eca30c25bfe99aedf2758ebd843ecc\transformed\jetified-ui-util-1.4.3\res
+in.lsoys.app-jetified-emoji2-views-helper-1.3.0-26 C:\Users\malak\.gradle\caches\8.12.1\transforms\9abae6fbe9c2224e11e53010a0c26c29\transformed\jetified-emoji2-views-helper-1.3.0\res
+in.lsoys.app-core-runtime-2.2.0-27 C:\Users\malak\.gradle\caches\8.12.1\transforms\9e33463fb70c81d7df53d0706d36a27f\transformed\core-runtime-2.2.0\res
+in.lsoys.app-jetified-material-ripple-1.4.3-28 C:\Users\malak\.gradle\caches\8.12.1\transforms\ab1c63f5e308385c5151c57a68ba1828\transformed\jetified-material-ripple-1.4.3\res
+in.lsoys.app-jetified-customview-poolingcontainer-1.0.0-29 C:\Users\malak\.gradle\caches\8.12.1\transforms\ab6b43f31aa1dc2ccb42bd1b067815fb\transformed\jetified-customview-poolingcontainer-1.0.0\res
+in.lsoys.app-jetified-startup-runtime-1.1.1-30 C:\Users\malak\.gradle\caches\8.12.1\transforms\b6b00bb89a7b905075ba9a17d5268a63\transformed\jetified-startup-runtime-1.1.1\res
+in.lsoys.app-jetified-foundation-1.4.3-31 C:\Users\malak\.gradle\caches\8.12.1\transforms\bf7f18713e18890d79d8ee47c70cfff5\transformed\jetified-foundation-1.4.3\res
+in.lsoys.app-lifecycle-livedata-2.6.1-32 C:\Users\malak\.gradle\caches\8.12.1\transforms\c05469105c2b1c087dd91b44ed66da4c\transformed\lifecycle-livedata-2.6.1\res
+in.lsoys.app-jetified-hilt-navigation-1.0.0-33 C:\Users\malak\.gradle\caches\8.12.1\transforms\c1fc1a2f1ed152d4496821427958119c\transformed\jetified-hilt-navigation-1.0.0\res
+in.lsoys.app-navigation-runtime-ktx-2.4.0-34 C:\Users\malak\.gradle\caches\8.12.1\transforms\c6071c1661ac8422662f10086f5b526c\transformed\navigation-runtime-ktx-2.4.0\res
+in.lsoys.app-jetified-material-icons-core-1.4.3-35 C:\Users\malak\.gradle\caches\8.12.1\transforms\c64219f98c87d3f2c3a51ac5fad8d18b\transformed\jetified-material-icons-core-1.4.3\res
+in.lsoys.app-lifecycle-runtime-2.6.1-36 C:\Users\malak\.gradle\caches\8.12.1\transforms\c7f3d3101c4673ec4db0be1cb5c81552\transformed\lifecycle-runtime-2.6.1\res
+in.lsoys.app-jetified-lifecycle-viewmodel-compose-2.6.1-37 C:\Users\malak\.gradle\caches\8.12.1\transforms\c92e05b9d5f5d0de8be12ae5ca7bab2d\transformed\jetified-lifecycle-viewmodel-compose-2.6.1\res
+in.lsoys.app-jetified-material-1.4.3-38 C:\Users\malak\.gradle\caches\8.12.1\transforms\cea09d9c7aef53bac31edccf50208ddb\transformed\jetified-material-1.4.3\res
+in.lsoys.app-jetified-animation-1.2.1-39 C:\Users\malak\.gradle\caches\8.12.1\transforms\d275c09d38263367b97b9b330522ae0d\transformed\jetified-animation-1.2.1\res
+in.lsoys.app-jetified-lifecycle-livedata-core-ktx-2.6.1-40 C:\Users\malak\.gradle\caches\8.12.1\transforms\d679b5530a2262058f21dc2bcad51071\transformed\jetified-lifecycle-livedata-core-ktx-2.6.1\res
+in.lsoys.app-jetified-fragment-ktx-1.4.1-41 C:\Users\malak\.gradle\caches\8.12.1\transforms\da0640e7e4ec997b0378880656b168ae\transformed\jetified-fragment-ktx-1.4.1\res
+in.lsoys.app-jetified-lifecycle-viewmodel-ktx-2.6.1-42 C:\Users\malak\.gradle\caches\8.12.1\transforms\da4b5bc9052af5075a31c1e97102babb\transformed\jetified-lifecycle-viewmodel-ktx-2.6.1\res
+in.lsoys.app-navigation-common-ktx-2.4.0-43 C:\Users\malak\.gradle\caches\8.12.1\transforms\df7a11e44d912adafb47c14d9278af58\transformed\navigation-common-ktx-2.4.0\res
+in.lsoys.app-jetified-ui-geometry-1.4.3-44 C:\Users\malak\.gradle\caches\8.12.1\transforms\e429a6637338bb3bddcd667dfa797bcd\transformed\jetified-ui-geometry-1.4.3\res
+in.lsoys.app-jetified-runtime-1.4.3-45 C:\Users\malak\.gradle\caches\8.12.1\transforms\ea53232b4cc7c17380bdf67a48fc777d\transformed\jetified-runtime-1.4.3\res
+in.lsoys.app-jetified-profileinstaller-1.3.0-46 C:\Users\malak\.gradle\caches\8.12.1\transforms\eed8b91488c20c41085f550fda0b24b5\transformed\jetified-profileinstaller-1.3.0\res
+in.lsoys.app-lifecycle-livedata-core-2.6.1-47 C:\Users\malak\.gradle\caches\8.12.1\transforms\f899847edfec27ed3d5b981f04eedcc3\transformed\lifecycle-livedata-core-2.6.1\res
+in.lsoys.app-jetified-annotation-experimental-1.3.0-48 C:\Users\malak\.gradle\caches\8.12.1\transforms\feb9f1c7e08fb2ee1b24c971986e48eb\transformed\jetified-annotation-experimental-1.3.0\res
+in.lsoys.app-appcompat-1.4.1-49 C:\Users\malak\.gradle\caches\8.12.1\transforms\fecdb13ca50406f35a3eed5ac8d09fbd\transformed\appcompat-1.4.1\res
+in.lsoys.app-pngs-50 C:\Users\malak\OneDrive\Desktop\JFSD WorkSpace\LSOYS_Selling_Buying_Android_App\app\build\generated\res\pngs\release
+in.lsoys.app-resValues-51 C:\Users\malak\OneDrive\Desktop\JFSD WorkSpace\LSOYS_Selling_Buying_Android_App\app\build\generated\res\resValues\release
+in.lsoys.app-packageReleaseResources-52 C:\Users\malak\OneDrive\Desktop\JFSD WorkSpace\LSOYS_Selling_Buying_Android_App\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+in.lsoys.app-packageReleaseResources-53 C:\Users\malak\OneDrive\Desktop\JFSD WorkSpace\LSOYS_Selling_Buying_Android_App\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+in.lsoys.app-merged_res-54 C:\Users\malak\OneDrive\Desktop\JFSD WorkSpace\LSOYS_Selling_Buying_Android_App\app\build\intermediates\merged_res\release
+in.lsoys.app-main-55 C:\Users\malak\OneDrive\Desktop\JFSD WorkSpace\LSOYS_Selling_Buying_Android_App\app\src\main\res
+in.lsoys.app-release-56 C:\Users\malak\OneDrive\Desktop\JFSD WorkSpace\LSOYS_Selling_Buying_Android_App\app\src\release\res

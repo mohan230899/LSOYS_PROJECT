@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "in.lsoys.app-mergeReleaseResources-52:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\malak\\.gradle\\caches\\8.12.1\\transforms\\fecdb13ca50406f35a3eed5ac8d09fbd\\transformed\\appcompat-1.4.1\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

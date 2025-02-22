@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "in.lsoys.app-mergeReleaseResources-52:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\malak\\.gradle\\caches\\8.12.1\\transforms\\fecdb13ca50406f35a3eed5ac8d09fbd\\transformed\\appcompat-1.4.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
